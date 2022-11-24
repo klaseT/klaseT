@@ -11,6 +11,7 @@
     "avatar": {
         "src": "https://ypimg.muzhuangnet.com/Collect/csharp/upload/article/000/000/009/5c99b79cee07b713.png",
         "hidden": false,
+        "size": "100px",
         "shape": "circle"
     },
     "profile": {
